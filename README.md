@@ -63,7 +63,7 @@ Amateur Environment artist who also specializes in Web Development.
 > Quick tool to help put together a quick GitHub Profile page.
 *Tech Stack:* `React`
 
-> #### 📁 [Emergency-NPC](https://github.com/AlteredInTranslation/Emergency-NPC)
+#### 📁 [Emergency-NPC](https://github.com/AlteredInTranslation/Emergency-NPC)
 > For when your rogue asks to pickpocket some random guy 4 hours into your session
 *Tech Stack:* `React`
 

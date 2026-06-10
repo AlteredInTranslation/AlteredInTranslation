@@ -60,15 +60,3 @@ Amateur Environment artist who also specializes in Web Development.
 *Tech Stack:* `React`
 
 --- 
-
-### Github Status Board 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlteredInTranslation&theme=default_dark&layout=compact" alt="Top Languages" />&nbsp;
-</p>
-
---- 
-
-<p align="center">
-  ✨ Keep building spectacular things! ✨
-</p>

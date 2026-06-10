@@ -59,4 +59,12 @@ Amateur Environment artist who also specializes in Web Development.
 > Couldn't decide on a last pokemon for an infinite fusion playthrough, so made this to help.
 *Tech Stack:* `React`
 
+#### 📁 [GitHub-Profile-Maker](https://github.com/AlteredInTranslation/GitHub-Profile-Maker)
+> Quick tool to help put together a quick GitHub Profile page.
+*Tech Stack:* `React`
+
+> #### 📁 [Emergency-NPC](https://github.com/AlteredInTranslation/Emergency-NPC)
+> For when your rogue asks to pickpocket some random guy 4 hours into your session
+*Tech Stack:* `React`
+
 --- 
